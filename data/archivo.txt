@@ -1,0 +1,5 @@
+Aprendiendo Java es divertido.
+Java es un lenguaje de programación potente.
+Me gusta programar en Java.
+Swing permite crear interfaces gráficas de usuario.
+Este archivo se utiliza como ejemplo de lectura y escritura.
